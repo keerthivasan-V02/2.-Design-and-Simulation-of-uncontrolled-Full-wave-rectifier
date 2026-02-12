@@ -55,5 +55,10 @@ Write your analysis report as Inference (Current waveform, RMS value)
 <img width="940" height="567" alt="image" src="https://github.com/user-attachments/assets/ef548704-4f5e-47e8-b847-4badd9cfeb07" />
 
 ## Simulation
+<img width="1006" height="463" alt="image" src="https://github.com/user-attachments/assets/45f8ce02-cb2a-446a-9a1f-b9d06545e78d" />
+
 ## Output
+<img width="1036" height="507" alt="image" src="https://github.com/user-attachments/assets/4afcf326-bd0b-454e-8d07-bc127c56698d" />
+
 ## Result
+Thus the experiment was simulated and verified.
